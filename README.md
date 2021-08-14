@@ -1,5 +1,5 @@
 ### Welcome to my Github 👋
-I'm Nghia from University of Information Technology
+I'm Nghia from University of Information Technology.
 I’m currently working as a Front-end, and trying to learn ReactJS.
 Hope to get more useful experience from anyone.
 
