@@ -7,4 +7,4 @@ Hope to get more useful experience from anyone.
 **nghianh98/nghianh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning Reactjs
+- 🌱 Hope an opening for a job related to ReactJS
